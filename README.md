@@ -1,0 +1,1 @@
+#Kafka-Tail-Producer # This application is used for collecting log data from specified log file by Linux tail cmd
